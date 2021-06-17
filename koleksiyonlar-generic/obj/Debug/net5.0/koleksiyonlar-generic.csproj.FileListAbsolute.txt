@@ -1,0 +1,16 @@
+C:\Users\calis\Desktop\Patika C#\koleksiyonlar-generic\bin\Debug\net5.0\koleksiyonlar-generic.exe
+C:\Users\calis\Desktop\Patika C#\koleksiyonlar-generic\bin\Debug\net5.0\koleksiyonlar-generic.deps.json
+C:\Users\calis\Desktop\Patika C#\koleksiyonlar-generic\bin\Debug\net5.0\koleksiyonlar-generic.runtimeconfig.json
+C:\Users\calis\Desktop\Patika C#\koleksiyonlar-generic\bin\Debug\net5.0\koleksiyonlar-generic.runtimeconfig.dev.json
+C:\Users\calis\Desktop\Patika C#\koleksiyonlar-generic\bin\Debug\net5.0\koleksiyonlar-generic.dll
+C:\Users\calis\Desktop\Patika C#\koleksiyonlar-generic\bin\Debug\net5.0\ref\koleksiyonlar-generic.dll
+C:\Users\calis\Desktop\Patika C#\koleksiyonlar-generic\bin\Debug\net5.0\koleksiyonlar-generic.pdb
+C:\Users\calis\Desktop\Patika C#\koleksiyonlar-generic\obj\Debug\net5.0\koleksiyonlar-generic.csprojAssemblyReference.cache
+C:\Users\calis\Desktop\Patika C#\koleksiyonlar-generic\obj\Debug\net5.0\koleksiyonlar-generic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\calis\Desktop\Patika C#\koleksiyonlar-generic\obj\Debug\net5.0\koleksiyonlar-generic.AssemblyInfoInputs.cache
+C:\Users\calis\Desktop\Patika C#\koleksiyonlar-generic\obj\Debug\net5.0\koleksiyonlar-generic.AssemblyInfo.cs
+C:\Users\calis\Desktop\Patika C#\koleksiyonlar-generic\obj\Debug\net5.0\koleksiyonlar-generic.csproj.CoreCompileInputs.cache
+C:\Users\calis\Desktop\Patika C#\koleksiyonlar-generic\obj\Debug\net5.0\koleksiyonlar-generic.dll
+C:\Users\calis\Desktop\Patika C#\koleksiyonlar-generic\obj\Debug\net5.0\ref\koleksiyonlar-generic.dll
+C:\Users\calis\Desktop\Patika C#\koleksiyonlar-generic\obj\Debug\net5.0\koleksiyonlar-generic.pdb
+C:\Users\calis\Desktop\Patika C#\koleksiyonlar-generic\obj\Debug\net5.0\koleksiyonlar-generic.genruntimeconfig.cache
