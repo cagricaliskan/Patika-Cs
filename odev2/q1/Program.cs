@@ -9,8 +9,10 @@ namespace q1
         {
             Console.WriteLine("20 afet pozitif sayi giriniz");
             
-            ArrayList aritmetik = new ArrayList();
-            ArrayList nonaritmetik = new ArrayList();
+            ArrayList asal = new ArrayList();
+            ArrayList nonasal = new ArrayList();
+            int aToplam=0;
+            int nToplam =0;
 
 
             for(int i = 0; i<20; i++){
@@ -21,28 +23,39 @@ namespace q1
                 if(int.TryParse(x, out int number) && number >= 0)
                 {
                     if(Prime(number)){
-                        aritmetik.Add(number);
+                        asal.Add(number);
                     }else {
-                        nonaritmetik.Add(number);
+                        nonasal.Add(number);
                     }
                 }
             }
 
-            aritmetik.Sort();
-            nonaritmetik.Sort();
+            asal.Sort();
+            nonasal.Sort();
 
             System.Console.WriteLine("*** Sıralı aritmetik sayılar ***");
-            foreach (var item in aritmetik)
+            foreach (var item in asal)
             {
                 System.Console.WriteLine(item);
             }
 
 
             System.Console.WriteLine("*** Sıralı aritmetik olmayan sayılar ***");
-            foreach (var item in nonaritmetik)
+            foreach (var item in nonasal)
             {
                 System.Console.WriteLine(item);
             }
+
+            for(int i = 0; i < asal.Count; i++){
+                aToplam += i;
+            }
+
+            for(int i = 0; i < nonasal.Count; i++){
+                nToplam += i;
+            }
+
+            System.Console.WriteLine("Aritmetik sayıların ortalaması {0}",aToplam/asal.Count);
+            System.Console.WriteLine("Aritmetik olmayan sayıların ortalaması {0}",nToplam/nonasal.Count);
 
             Console.ReadLine();
 
