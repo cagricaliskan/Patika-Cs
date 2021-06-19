@@ -54,8 +54,8 @@ namespace q1
                 nToplam += i;
             }
 
-            System.Console.WriteLine("Aritmetik sayıların ortalaması {0}",aToplam/asal.Count);
-            System.Console.WriteLine("Aritmetik olmayan sayıların ortalaması {0}",nToplam/nonasal.Count);
+            System.Console.WriteLine("Asal sayıların ortalaması {0}",aToplam/asal.Count);
+            System.Console.WriteLine("Asal olmayan sayıların ortalaması {0}",nToplam/nonasal.Count);
 
             Console.ReadLine();
 
